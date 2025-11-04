@@ -29,3 +29,104 @@
             width: 10px;
             height:10px;
         }
+
+
+
+
+
+
+
+
+
+        body{
+            text-align: left;
+            margin-top: 20px;
+            margin-left: 20%;
+            margin-right: 20%;
+        }        
+
+
+        header{
+            background-color: rgb(89, 27, 19);
+            border-radius: 20px;
+            padding: 20px;
+            margin-top: 10px;
+            color: antiquewhite;
+        }
+    
+
+
+
+
+
+
+
+
+
+         body{
+            text-align: left;
+            margin-top: 20px;
+            margin-left: 20%;
+            margin-right: 20%;
+        }        
+
+
+        header{
+            background-color: rgb(89, 27, 19);
+            border-radius: 20px;
+            padding: 20px;
+            margin-top: 10px;
+            color: antiquewhite;
+        }
+
+        .card{
+            background-color: rgb(89, 27, 19);
+            border-radius: 20px;
+            width: 250px;    
+            padding: 5px;
+        }
+
+        .card img{
+            width: 100%;
+            border-radius: 20px;
+            object-fit: cover;
+            height: 100px;
+        }
+
+        .card:hover{
+            border: solid black 5px;
+        }
+
+        #lessons {
+            display: flex;
+            gap: 10px;
+        }
+    
+
+
+
+
+
+
+
+
+
+        body{
+            text-align: center;
+            margin-top: 20px;
+            margin-left: 20%;
+            margin-right: 20%;
+        }
+
+        img{
+            width: 200px;
+            border-radius: 50%;
+        
+        }
+
+        section{
+            background-color: azure;
+            border-radius: 20px;
+            padding: 20px;
+            margin-top: 10px;
+        }
