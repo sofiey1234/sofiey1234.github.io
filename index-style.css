@@ -1,0 +1,26 @@
+img {
+    display: block;
+    width: 500px;
+    height: 400px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul.ul1 {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap:20px
+}
+
+ul.ul2 {
+    list-style:lower-roman;
+}
+
+/*
+This is how you make a comment in css
++
+list-style is when you change the front symbol of a list
+*/
